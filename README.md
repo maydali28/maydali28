@@ -46,4 +46,4 @@ Here's a project I'm proud of:
 I'm always open to discussing new opportunities or collaborations. Feel free to reach out to me via:
 - **Linkedin:** [mohamed-ali-may28](https://www.linkedin.com/in/mohamed-ali-may28)
 - **Email:** may.mohamedali28@gmail.com
-- **Website:** www.mohamedalimay.dev
+<!-- - **Website:** www.mohamedalimay.dev -->
