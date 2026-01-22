@@ -32,8 +32,8 @@ I work primarily in backend and platform engineering, with hands-on experience a
 - **Cloud & Platform:** AWS, Azure, Kubernetes, Terraform  
 - **DevOps & Ops:** Docker, CI/CD, Prometheus, Grafana, Git  
 
----
 <!--
+---
 #### 🚀 Featured Projects
 
 Here's a project I'm proud of:
