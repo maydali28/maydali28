@@ -26,7 +26,7 @@ I’m comfortable owning systems end-to-end, from architecture and implementatio
 I work primarily in backend and platform engineering, with hands-on experience across:
 
 - **Languages:** Java, Python, TypeScript, JavaScript  
-- **Frameworks:** Spring Boot,
+- **Frameworks:** Spring Boot
   <!-- REST & GraphQL APIs --> 
 - **Data:** PostgreSQL, Elasticsearch  
 - **Messaging:** Kafka, MQTT  
