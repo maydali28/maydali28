@@ -26,11 +26,12 @@ I’m comfortable owning systems end-to-end, from architecture and implementatio
 I work primarily in backend and platform engineering, with hands-on experience across:
 
 - **Languages:** Java, Python, TypeScript, JavaScript  
-- **Frameworks:** Spring Boot, REST & GraphQL APIs  
-- **Data:** PostgreSQL, Elasticsearch, OpenSearch  
+- **Frameworks:** Spring Boot,
+  <!-- REST & GraphQL APIs --> 
+- **Data:** PostgreSQL, Elasticsearch  
 - **Messaging:** Kafka, MQTT  
-- **Cloud & Platform:** AWS, Azure, Kubernetes, Terraform  
-- **DevOps & Ops:** Docker, CI/CD, Prometheus, Grafana, Git  
+- **Cloud & Platform:** AWS, Azure, Kubernetes, Terraform, Docker 
+- **DevOps & Ops:** Github ations, Gitlab CI, Prometheus, Grafana, Git  
 
 <!--
 ---
