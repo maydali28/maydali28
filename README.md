@@ -31,3 +31,5 @@ Feel free to explore my repositories or reach out if you’d like to talk backen
 - **Website:** [mohamedalimay.dev](https://www.mohamedalimay.dev/)
 
 ![Visitors](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)
+
+![My GitHub Game](game.gif)
