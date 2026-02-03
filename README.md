@@ -1,5 +1,7 @@
 ## Hi, I’m Mohamed Ali 👋
 
+![My GitHub Game](game.gif)
+
 I’m a **Senior Backend & Cloud Engineer** with over 7 years of experience building and operating cloud-native backend systems.
 
 My work focuses on backend services written primarily in **Java and Spring Boot**, running on **Kubernetes** in cloud and hybrid environments. I spend most of my time working on systems that have grown complex over time, where safe evolution, operational clarity, and predictable delivery are more important than quick fixes.
@@ -31,5 +33,3 @@ Feel free to explore my repositories or reach out if you’d like to talk backen
 - **Website:** [mohamedalimay.dev](https://www.mohamedalimay.dev/)
 
 ![Visitors](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)
-
-![My GitHub Game](game.gif)
