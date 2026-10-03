@@ -8,7 +8,7 @@
 
 </div>
 
-![My GitHub Game](game.gif)
+<p align="center"><img src="game.gif" alt="My GitHub Game" /></p>
 
 I'm a Lead Software Engineer at [MaibornWolff](https://www.maibornwolff.de/en). I've spent 7+ years building cloud-native backend systems, mostly Java and Spring Boot on Kubernetes, and the CI/CD, infrastructure as code and observability that keep them running in production.
 
