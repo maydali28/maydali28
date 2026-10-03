@@ -1,0 +1,19 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 06:00 UTC (the game workflow runs at midnight)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://medium.com/feed/@dali.may28'
+          max_post_count: '4'
