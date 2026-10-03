@@ -16,11 +16,28 @@ These days I'm also building tools for working with AI coding agents, and runnin
 
 ### Things I've built
 
-| Project | What it is | |
-|---|---|---|
-| [**ClaudeWatch**](https://github.com/maydali28/claudewatch) | Desktop companion for Claude Code: live cost, token and cache analytics from local session logs. macOS, Windows, Linux. Featured on Product Hunt, 700+ downloads. | [Site](https://claudewatch.mohamedalimay.dev) · [Case&nbsp;study](https://www.mohamedalimay.dev/projects/claudewatch) |
-| [**MemCP**](https://github.com/maydali28/memcp) | Persistent memory MCP server for Claude Code, so context survives `/compact` and new sessions. SQLite knowledge graph, tiered search, 458 tests. | [PyPI](https://pypi.org/project/claude-memory-mcp/) · [Case&nbsp;study](https://www.mohamedalimay.dev/projects/memcp) |
-| **Hyperspace** | The platform that runs my coworking space in Bizerte: public booking site, staff back office, billing and CRM. NestJS + Supabase API, Next.js front ends. (Private repo.) | [Live](https://booking.hscowork.com) · [Case&nbsp;study](https://www.mohamedalimay.dev/projects/hyperspace) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.mohamedalimay.dev/projects/claudewatch"><img src="https://www.mohamedalimay.dev/projects/claudewatch/opengraph-image" alt="ClaudeWatch" /></a>
+      <p><b><a href="https://github.com/maydali28/claudewatch">ClaudeWatch</a></b><br />
+      Desktop companion for Claude Code: live cost, token and cache analytics from local session logs. Featured on Product Hunt, 700+ downloads.</p>
+      <p><a href="https://claudewatch.mohamedalimay.dev">Site</a> · <a href="https://www.mohamedalimay.dev/projects/claudewatch">Case&nbsp;study</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.mohamedalimay.dev/projects/memcp"><img src="https://www.mohamedalimay.dev/projects/memcp/opengraph-image" alt="MemCP" /></a>
+      <p><b><a href="https://github.com/maydali28/memcp">MemCP</a></b><br />
+      Persistent memory MCP server for Claude Code, so context survives <code>/compact</code> and new sessions. 458 tests, on PyPI.</p>
+      <p><a href="https://pypi.org/project/claude-memory-mcp/">PyPI</a> · <a href="https://www.mohamedalimay.dev/projects/memcp">Case&nbsp;study</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.mohamedalimay.dev/projects/hyperspace"><img src="https://www.mohamedalimay.dev/projects/hyperspace/opengraph-image" alt="Hyperspace" /></a>
+      <p><b>Hyperspace</b><br />
+      The platform that runs my coworking space in Bizerte: public booking, staff back office, billing and CRM. NestJS, Supabase, Next.js.</p>
+      <p><a href="https://booking.hscowork.com">Live</a> · <a href="https://www.mohamedalimay.dev/projects/hyperspace">Case&nbsp;study</a></p>
+    </td>
+  </tr>
+</table>
 
 ### Latest writing
 
