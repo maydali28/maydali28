@@ -1,35 +1,71 @@
-## Hi, I’m Mohamed Ali 👋
+<div align="center">
 
-![My GitHub Game](game.gif)
+# Mohamed Ali May
 
-I’m a **Senior Backend & Cloud Engineer** with over 7 years of experience building and operating cloud-native backend systems.
+**Lead Software Engineer** · Java, Kubernetes and cloud platforms · Tunis
 
-My work focuses on backend services written primarily in **Java and Spring Boot**, running on **Kubernetes** in cloud and hybrid environments. I spend most of my time working on systems that have grown complex over time, where safe evolution, operational clarity, and predictable delivery are more important than quick fixes.
+<a href="https://www.mohamedalimay.dev"><img alt="Website" src="https://img.shields.io/badge/Website-mohamedalimay.dev-111?style=flat-square" /></a> <a href="https://www.linkedin.com/in/mohamed-ali-may28"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohamed--ali--may28-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@dali.may28"><img alt="Medium" src="https://img.shields.io/badge/Medium-dali.may28-000?style=flat-square&logo=medium&logoColor=white" /></a> <a href="mailto:hi@mohamedalimay.dev"><img alt="Email" src="https://img.shields.io/badge/Email-hi%40mohamedalimay.dev-555?style=flat-square&logo=maildotru&logoColor=white" /></a>
 
-Alongside backend development, I take responsibility for the platform foundations that make systems reliable in practice — **CI/CD pipelines, infrastructure as code, deployment workflows, and observability**. This allows teams to ship changes with confidence and understand how their systems behave in production.
+</div>
 
-I care strongly about **long-term ownership**. I work closely with engineers and technical leaders to simplify architectures, modernize services step by step, and establish practices that continue to work as systems grow and teams change.
+<p align="center"><img src="game.gif" alt="My GitHub Game" /></p>
 
-### 💻 What I work on
-- Backend services and APIs built with Java and Spring Boot  
-- Cloud-native systems running on Kubernetes  
-- CI/CD automation and infrastructure as code  
-- Observability and operational tooling for production systems  
-- Long-lived platforms used by multiple teams over time  
+I'm a Lead Software Engineer at [MaibornWolff](https://www.maibornwolff.de/en). I've spent 7+ years building cloud-native backend systems, mostly Java and Spring Boot on Kubernetes, and the CI/CD, infrastructure as code and observability that keep them running in production.
 
-### 🛠️ Technologies
-- **Backend**: Java, Spring Boot, REST APIs, GraphQL  
-- **Cloud & Platform**: Kubernetes, AWS, Azure, Terraform, CI/CD  
-- **Data & Messaging**: PostgreSQL, search and messaging systems  
-- **Observability**: Monitoring, dashboards, and production diagnostics  
+These days I'm also building tools for working with AI coding agents, and running the platform behind my coworking space.
 
-📍 Based in Tunis, Tunisia  
-🌍 Open to remote and relocation opportunities  
+### Things I've built
 
-Feel free to explore my repositories or reach out if you’d like to talk backend systems, cloud engineering, or long-term platform ownership.
+<p align="center">
+  <a href="https://www.mohamedalimay.dev/projects/claudewatch"><img src="https://www.mohamedalimay.dev/projects/claudewatch/opengraph-image" alt="ClaudeWatch" width="32%" /></a>
+  <a href="https://www.mohamedalimay.dev/projects/memcp"><img src="https://www.mohamedalimay.dev/projects/memcp/opengraph-image" alt="MemCP" width="32%" /></a>
+  <a href="https://www.mohamedalimay.dev/projects/hyperspace"><img src="https://www.mohamedalimay.dev/projects/hyperspace/opengraph-image" alt="Hyperspace" width="32%" /></a>
+</p>
 
-- **Linkedin:** [mohamed-ali-may28](https://www.linkedin.com/in/mohamed-ali-may28)
-- **Email:** may.mohamedali28@gmail.com
-- **Website:** [mohamedalimay.dev](https://www.mohamedalimay.dev/)
+- **[ClaudeWatch](https://github.com/maydali28/claudewatch)**: desktop companion for Claude Code with live cost, token and cache analytics from local session logs. Featured on Product Hunt, 700+ downloads. [Site](https://claudewatch.mohamedalimay.dev) · [Case study](https://www.mohamedalimay.dev/projects/claudewatch)
+- **[MemCP](https://github.com/maydali28/memcp)**: persistent memory MCP server for Claude Code, so context survives `/compact` and new sessions. 458 tests, on PyPI. [PyPI](https://pypi.org/project/claude-memory-mcp/) · [Case study](https://www.mohamedalimay.dev/projects/memcp)
+- **Hyperspace**: the platform that runs my coworking space in Bizerte, with public booking, a staff back office, billing and CRM. [Live](https://booking.hscowork.com) · [Case study](https://www.mohamedalimay.dev/projects/hyperspace)
 
-![Visitors](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)
+### Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [From Dumb Devices to Digital Teammates: How Agentic AI is Revolutionizing the Internet of Things](https://faun.pub/from-dumb-devices-to-digital-teammates-how-agentic-ai-is-revolutionizing-the-internet-of-things-e4342bcf3ead)
+- [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://medium.com/@dali.may28/solving-claudes-amnesia-building-persistent-memory-with-mcp-9c53a41cd0cf)
+<!-- BLOG-POST-LIST:END -->
+
+More on [Medium](https://medium.com/@dali.may28).
+
+### Stack
+
+<sub><b>BACKEND</b></sub><br />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+<sub><b>CLOUD &AMP; PLATFORM</b></sub><br />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /> <img alt="FluxCD" src="https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white" /> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img alt="AWS" src="assets/aws-badge.svg" /> <img alt="Azure" src="assets/azure-badge.svg" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<sub><b>CI/CD</b></sub><br />
+<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<sub><b>DATA &AMP; MESSAGING</b></sub><br />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" /> <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+
+<sub><b>OBSERVABILITY</b></sub><br />
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+### Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/31e58a81-aba3-4d69-933a-a4b70a2dec08/public_url"><img align="left" width="56" src="https://images.credly.com/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" alt="HashiCorp Certified: Terraform Associate (004) badge" /></a>
+  <b>HashiCorp Certified: Terraform Associate (004)</b><br />
+  Earned Jun 2026 · <a href="https://www.credly.com/badges/31e58a81-aba3-4d69-933a-a4b70a2dec08/public_url">Verify on Credly</a>
+  <br clear="left" />
+</p>
+
+<p>
+  <img align="left" width="56" src="assets/aws-cert.svg" alt="AWS" />
+  <b>AWS Certified Solutions Architect – Associate</b><br />
+  In progress · exam expected Nov 2026
+  <br clear="left" />
+</p>
+
+<sub>![Profile views](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)</sub>
