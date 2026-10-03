@@ -1,35 +1,36 @@
-## Hi, I’m Mohamed Ali 👋
+## Hi, I'm Mohamed Ali
 
 ![My GitHub Game](game.gif)
 
-I’m a **Senior Backend & Cloud Engineer** with over 7 years of experience building and operating cloud-native backend systems.
+Lead Software Engineer at [MaibornWolff](https://www.maibornwolff.de/en), based in Tunis. I've spent 7+ years building cloud-native backend systems, mostly Java and Spring Boot on Kubernetes, and the CI/CD, infrastructure as code and observability that keep them running in production.
 
-My work focuses on backend services written primarily in **Java and Spring Boot**, running on **Kubernetes** in cloud and hybrid environments. I spend most of my time working on systems that have grown complex over time, where safe evolution, operational clarity, and predictable delivery are more important than quick fixes.
+These days I'm also building tools for working with AI coding agents, and running the platform behind my coworking space.
 
-Alongside backend development, I take responsibility for the platform foundations that make systems reliable in practice — **CI/CD pipelines, infrastructure as code, deployment workflows, and observability**. This allows teams to ship changes with confidence and understand how their systems behave in production.
+### Things I've built
 
-I care strongly about **long-term ownership**. I work closely with engineers and technical leaders to simplify architectures, modernize services step by step, and establish practices that continue to work as systems grow and teams change.
+| Project | What it is | |
+|---|---|---|
+| [**ClaudeWatch**](https://github.com/maydali28/claudewatch) | Desktop companion for Claude Code: live cost, token and cache analytics from local session logs. macOS, Windows, Linux. Featured on Product Hunt, 700+ downloads. | [Site](https://claudewatch.mohamedalimay.dev) · [Case study](https://www.mohamedalimay.dev/projects/claudewatch) |
+| [**MemCP**](https://github.com/maydali28/memcp) | Persistent memory MCP server for Claude Code, so context survives `/compact` and new sessions. SQLite knowledge graph, tiered search, 458 tests. | [PyPI](https://pypi.org/project/claude-memory-mcp/) · [Case study](https://www.mohamedalimay.dev/projects/memcp) |
+| **Hyperspace** | The platform that runs my coworking space in Bizerte: public booking site, staff back office, billing and CRM. NestJS + Supabase API, Next.js front ends. (Private repo.) | [Live](https://booking.hscowork.com) · [Case study](https://www.mohamedalimay.dev/projects/hyperspace) |
 
-### 💻 What I work on
-- Backend services and APIs built with Java and Spring Boot  
-- Cloud-native systems running on Kubernetes  
-- CI/CD automation and infrastructure as code  
-- Observability and operational tooling for production systems  
-- Long-lived platforms used by multiple teams over time  
+### Writing
 
-### 🛠️ Technologies
-- **Backend**: Java, Spring Boot, REST APIs, GraphQL  
-- **Cloud & Platform**: Kubernetes, AWS, Azure, Terraform, CI/CD  
-- **Data & Messaging**: PostgreSQL, search and messaging systems  
-- **Observability**: Monitoring, dashboards, and production diagnostics  
+- [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://medium.com/@dali.may28/solving-claudes-amnesia-building-persistent-memory-with-mcp-9c53a41cd0cf)
+- [From Dumb Devices to Digital Teammates: How Agentic AI is Revolutionizing the Internet of Things](https://faun.pub/from-dumb-devices-to-digital-teammates-how-agentic-ai-is-revolutionizing-the-internet-of-things-e4342bcf3ead) (FAUN)
+- More on [Medium](https://medium.com/@dali.may28)
 
-📍 Based in Tunis, Tunisia  
-🌍 Open to remote and relocation opportunities  
+### Day to day
 
-Feel free to explore my repositories or reach out if you’d like to talk backend systems, cloud engineering, or long-term platform ownership.
+- **Backend:** Java, Spring Boot, TypeScript, NestJS, REST and GraphQL APIs
+- **Cloud and platform:** Kubernetes, Helm, FluxCD, Terraform, AWS, Azure, GitLab CI, GitHub Actions
+- **Data and messaging:** PostgreSQL, Elasticsearch / OpenSearch, Kafka, MQTT
+- **Observability:** Prometheus, Grafana
 
-- **Linkedin:** [mohamed-ali-may28](https://www.linkedin.com/in/mohamed-ali-may28)
-- **Email:** may.mohamedali28@gmail.com
-- **Website:** [mohamedalimay.dev](https://www.mohamedalimay.dev/)
+HashiCorp Certified: Terraform Associate. AWS Solutions Architect – Associate in progress.
 
-![Visitors](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)
+### Get in touch
+
+[mohamedalimay.dev](https://www.mohamedalimay.dev) · [LinkedIn](https://www.linkedin.com/in/mohamed-ali-may28) · [Medium](https://medium.com/@dali.may28) · hi@mohamedalimay.dev
+
+![Profile views](https://komarev.com/ghpvc/?username=maydali28&label=PROFILE+VIEWS&color=0e75b6&style=flat&abbreviated=true)
