@@ -29,8 +29,10 @@ These days I'm also building tools for working with AI coding agents, and runnin
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [From Dumb Devices to Digital Teammates: How Agentic AI is Revolutionizing the Internet of Things](https://faun.pub/from-dumb-devices-to-digital-teammates-how-agentic-ai-is-revolutionizing-the-internet-of-things-e4342bcf3ead)
-- [Solving Claude's Amnesia: Building Persistent Memory with MCP](https://medium.com/@dali.may28/solving-claudes-amnesia-building-persistent-memory-with-mcp-9c53a41cd0cf)
+- [From Dumb Devices to Digital Teammates: How Agentic AI is Revolutionizing the Internet of Things](https://faun.pub/from-dumb-devices-to-digital-teammates-how-agentic-ai-is-revolutionizing-the-internet-of-things-e4342bcf3ead?source=rss-146295362deb------2)
+- [Solving Claude’s Amnesia: Building Persistent Memory with MCP](https://medium.com/@dali.may28/solving-claudes-amnesia-building-persistent-memory-with-mcp-9c53a41cd0cf?source=rss-146295362deb------2)
+- [using docker for embedded systems development](https://medium.com/@dali.may28/using-docker-for-embedded-systems-development-85d2f90d6420?source=rss-146295362deb------2)
+- [Emulate Raspberry Pi 2 on your PC](https://medium.com/@dali.may28/emulate-raspberry-pi-2-on-your-pc-91a4af826cba?source=rss-146295362deb------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@dali.may28).
